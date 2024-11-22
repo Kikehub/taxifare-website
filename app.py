@@ -43,5 +43,5 @@ dictio = {
 obj = requests.get(url, dictio).json()
 st.write(obj)
 
-pred = obj.get('fare')
+pred = obj.get('fare de Victor le gros boloss')
 st.write(pred)
